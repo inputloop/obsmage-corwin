@@ -8,7 +8,7 @@ these scenes. This repository is where they live.
 
 | Path | What |
 |---|---|
-| `STAGES.md` | Roll-up of every **profile** atom (video, output, audio, services); 15 profiles' worth as of 2026-11-01 from the GSUS Tech profile |
+| `STAGES.md` | Roll-up of every **profile** atom (video, output, audio, services); as of 2026-11-01 only the GSUS Tech profile (14 more profiles sit on Avalon, not yet split) |
 | `SCENES.md` | Roll-up of every **scene-collection** atom (the 2024 Avalon collection and the active MISC_MULTI_POINT_RECORDING) |
 | `atoms/` | The atoms both roll-ups come from (`omg_atoms.py split`) |
 | `hosts/avalon/` | Avalon's display audits and the physical layout inferred from the hand-made Screenmap |
