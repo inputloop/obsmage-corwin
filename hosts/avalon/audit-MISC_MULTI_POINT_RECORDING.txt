@@ -1,0 +1,15 @@
+14 display-capture source(s): 2 bound by index (fragile: shifts when displays change), 11 bound by stable id, 1 unbound (OBS uses index 0).
+- 'DC_Left' [monitor_capture] is bound by id \\?\DISPLAY#AMX012E#5&2ebfd20c&0&UID8450#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7} (index 2 also set)
+- 'DC_Center - slice' [monitor_capture] is bound by id \\?\DISPLAY#AMX1100#9&1d137542&0&UID256#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7} (index 3 also set)
+- 'DC_Main' [monitor_capture] is bound by id \\?\DISPLAY#HPN3724#5&2ebfd20c&0&UID8453#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+- 'Upper (Left Upper)' [monitor_capture] is bound by id \\?\DISPLAY#AMX1100#5&2ebfd20c&0&UID8448#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7} (index 1 also set)
+- 'Display Capture - USAB01' [monitor_capture] is bound by id \\?\DISPLAY#AMX1100#5&2ebfd20c&0&UID8448#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7} (index 4 also set)
+- 'USB LH_01' [monitor_capture] is bound by index 5
+- 'USB LH_02' [monitor_capture] is bound by id \\?\DISPLAY#AMX1100#5&2ebfd20c&0&UID8452#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7} (index 7 also set)
+- 'USB LH_01 - Left Upper (tall)' [monitor_capture] is bound by index 6
+- 'USB LH_03 (left upper square)' [monitor_capture] is bound by id \\?\DISPLAY#AMX1100#9&1d137542&0&UID256#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7} (index 5 also set)
+- 'Display Capture' [monitor_capture] is bound by id \\?\DISPLAY#ACI27C4#5&2ebfd20c&0&UID12544#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+- 'Display Capture 2' [monitor_capture] is bound by id \\?\DISPLAY#AMX1100#5&2ebfd20c&0&UID16640#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+- 'Display Capture 3' [monitor_capture] is bound by id \\?\DISPLAY#HPN3724#5&2ebfd20c&0&UID8453#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+- 'Upoper Right' [monitor_capture] is bound by id \\?\DISPLAY#AMX1100#9&1d137542&0&UID256#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+- 'Display Capture 4' [monitor_capture] is not bound to anything

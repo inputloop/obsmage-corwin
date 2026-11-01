@@ -1,0 +1,122 @@
+[
+  {
+    "id": null,
+    "index": 5,
+    "name": "USB LH_03 (left upper square)",
+    "x": 739,
+    "y": 1949,
+    "w": 1920,
+    "h": 1080,
+    "primary": false,
+    "unknown": {
+      "w,h": "assumed 1920x1080 (native size is not stored in the collection)",
+      "primary": "not recorded in the collection",
+      "id": "source binds by index only"
+    }
+  },
+  {
+    "id": null,
+    "index": 6,
+    "name": "USB LH_01 - Left Upper (tall)",
+    "x": 0,
+    "y": 497,
+    "w": 1920,
+    "h": 1080,
+    "primary": false,
+    "unknown": {
+      "w,h": "assumed 1920x1080 (native size is not stored in the collection)",
+      "primary": "not recorded in the collection",
+      "id": "source binds by index only"
+    }
+  },
+  {
+    "id": null,
+    "index": 1,
+    "name": "Upper (Left Upper)",
+    "x": 3150,
+    "y": 845,
+    "w": 1920,
+    "h": 1080,
+    "primary": false,
+    "unknown": {
+      "w,h": "assumed 1920x1080 (native size is not stored in the collection)",
+      "primary": "not recorded in the collection",
+      "id": "source binds by index only"
+    }
+  },
+  {
+    "id": null,
+    "index": 3,
+    "name": "DC_Center - slice",
+    "x": 5061,
+    "y": 828,
+    "w": 1920,
+    "h": 1080,
+    "primary": false,
+    "unknown": {
+      "w,h": "assumed 1920x1080 (native size is not stored in the collection)",
+      "primary": "not recorded in the collection",
+      "id": "source binds by index only"
+    }
+  },
+  {
+    "id": null,
+    "index": 2,
+    "name": "DC_Left",
+    "x": 2505,
+    "y": 1919,
+    "w": 1920,
+    "h": 1080,
+    "primary": false,
+    "unknown": {
+      "w,h": "assumed 1920x1080 (native size is not stored in the collection)",
+      "primary": "not recorded in the collection",
+      "id": "source binds by index only"
+    }
+  },
+  {
+    "id": null,
+    "index": 0,
+    "name": "DC_Main",
+    "x": 4428,
+    "y": 1911,
+    "w": 1920,
+    "h": 1080,
+    "primary": false,
+    "unknown": {
+      "w,h": "assumed 1920x1080 (native size is not stored in the collection)",
+      "primary": "not recorded in the collection",
+      "id": "source binds by index only"
+    }
+  },
+  {
+    "id": null,
+    "index": 4,
+    "name": "Display Capture - USAB01",
+    "x": 7001,
+    "y": 1240,
+    "w": 1920,
+    "h": 1080,
+    "primary": false,
+    "unknown": {
+      "w,h": "assumed 1920x1080 (native size is not stored in the collection)",
+      "primary": "not recorded in the collection",
+      "id": "source binds by index only"
+    }
+  },
+  {
+    "id": null,
+    "index": 7,
+    "name": "USB LH_02",
+    "x": 1923,
+    "y": 0,
+    "w": 1920,
+    "h": 1080,
+    "primary": false,
+    "unknown": {
+      "w,h": "assumed 1920x1080 (native size is not stored in the collection)",
+      "primary": "not recorded in the collection",
+      "id": "source binds by index only"
+    }
+  }
+]

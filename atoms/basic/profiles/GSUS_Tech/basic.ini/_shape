@@ -1,0 +1,132 @@
+{"bom": false, "crlf": false, "trailing": true}
+S General
+K Name
+R 
+S Video
+K BaseCX
+K BaseCY
+K OutputCX
+K OutputCY
+K FPSType
+K FPSCommon
+K FPSInt
+K FPSNum
+K FPSDen
+K ScaleType
+K ColorFormat
+K ColorSpace
+K ColorRange
+K SdrWhiteLevel
+K HdrNominalPeakLevel
+R 
+S Panels
+K CookieId
+R 
+S SimpleOutput
+K VBitrate
+K StreamEncoder
+K RecEncoder
+K RecQuality
+K FilePath
+K RecFormat2
+K ABitrate
+K UseAdvanced
+K Preset
+K NVENCPreset2
+K RecRB
+K RecRBTime
+K RecRBSize
+K RecRBPrefix
+K StreamAudioEncoder
+K RecAudioEncoder
+K RecTracks
+R 
+S Output
+K Mode
+K BindIP
+K FilenameFormatting
+K DelayEnable
+K DelaySec
+K DelayPreserve
+K Reconnect
+K RetryDelay
+K MaxRetries
+K IPFamily
+K NewSocketLoopEnable
+K LowLatencyEnable
+R 
+S Auth
+K Type
+R 
+S Twitch
+K Name
+K DockState
+K RefreshToken
+K Token
+K ExpireTime
+K ScopeVer
+K AddonChoice
+K UUID
+R 
+S WebsocketAPI
+K ServerEnabled
+K ServerPort
+K DebugEnabled
+K AlertsEnabled
+K AuthRequired
+K AuthSecret
+K AuthSalt
+R 
+S AdvOut
+K Encoder
+K ApplyServiceSettings
+K UseRescale
+K TrackIndex
+K VodTrackIndex
+K RecType
+K RecFilePath
+K RecFormat2
+K RecUseRescale
+K RecTracks
+K RecEncoder
+K FLVTrack
+K StreamMultiTrackAudioMixes
+K FFOutputToFile
+K FFFilePath
+K FFExtension
+K FFVBitrate
+K FFVGOPSize
+K FFUseRescale
+K FFIgnoreCompat
+K FFABitrate
+K FFAudioMixes
+K Track1Bitrate
+K Track2Bitrate
+K Track3Bitrate
+K Track4Bitrate
+K Track5Bitrate
+K Track6Bitrate
+K RecSplitFileTime
+K RecSplitFileSize
+K RecRB
+K RecRBTime
+K RecRBSize
+K AudioEncoder
+K RecAudioEncoder
+R 
+S Stream1
+K IgnoreRecommended
+K EnableMultitrackVideo
+K MultitrackVideoMaximumAggregateBitrateAuto
+K MultitrackVideoMaximumVideoTracksAuto
+R 
+S Audio
+K MonitoringDeviceId
+K MonitoringDeviceName
+K SampleRate
+K ChannelSetup
+K MeterDecayRate
+K PeakMeterType
+R 
+S Hotkeys
+K OBSBasic.SaveReplayBuffer
