@@ -8,10 +8,11 @@ these scenes. This repository is where they live.
 
 | Path | What |
 |---|---|
-| `STAGES.md` | Roll-up of every **profile** atom (video, output, audio, services); as of 2026-11-01 only the GSUS Tech profile (14 more profiles sit on Avalon, not yet split) |
+| `STAGES.md` | Roll-up of every **profile** atom (video, output, audio, services); as of 2026-11-01 only the GSUS Tech profile, now with its `service.json` and `streamEncoder.json` (14 more profiles sit on Avalon, not yet split) |
 | `SCENES.md` | Roll-up of every **scene-collection** atom (the 2024 Avalon collection and the active MISC_MULTI_POINT_RECORDING) |
 | `atoms/` | The atoms both roll-ups come from (`omg_atoms.py split`) |
-| `hosts/avalon/` | Avalon's display audits and the physical layout inferred from the hand-made Screenmap |
+| `hosts/avalon/` | Avalon's display audits, the physical layout inferred from the hand-made Screenmap, and `dry-run-2026-11-01.md` (what a read-only run against the live folder showed) |
+| `TEST-CARD.md` | The Windows commands to test the tools on Avalon, what each prints, how to undo |
 | `hosts/giza/` | GIZA: waiting on what GIZA is now (see the questions there) |
 | `journal/YYYY/MM/DD/` | Why things changed |
 
@@ -51,7 +52,7 @@ From `hosts/avalon/audit-*.txt`, 2026-11-01:
 5. The 2024 Avalon collection has 8 index-bound, 3 id-bound and 1 unbound capture. It is the
    older shape; the active collection has already moved most of the way to stable ids.
 
-## Next on Avalon (needs the Windows side, so it is for a session with a Windows shell, or for you)
+## Next on Avalon (needs the Windows side: `TEST-CARD.md` has the steps in order)
 
 ```sh
 python tools/omg_compose.py displays > hosts/avalon/displays-live.json        # real geometry and ids

@@ -1,0 +1,43 @@
+WARNING: display #5 USB LH_03 (left upper square) (1920x1080 at 739,1949) has no id; its source will bind by index only.
+WARNING: display #6 USB LH_01 - Left Upper (tall) (1920x1080 at 0,497) has no id; its source will bind by index only.
+WARNING: display #1 Upper (Left Upper) (1920x1080 at 3150,845) has no id; its source will bind by index only.
+WARNING: display #3 DC_Center - slice (1920x1080 at 5061,828) has no id; its source will bind by index only.
+WARNING: display #2 DC_Left (1920x1080 at 2505,1919) has no id; its source will bind by index only.
+WARNING: display #0 DC_Main (1920x1080 at 4428,1911) has no id; its source will bind by index only.
+WARNING: display #4 Display Capture - USAB01 (1920x1080 at 7001,1240) has no id; its source will bind by index only.
+WARNING: display #7 USB LH_02 (1920x1080 at 1923,0) has no id; its source will bind by index only.
+Reused 'USB LH_01' for display #5 USB LH_03 (left upper square) (1920x1080 at 739,1949).
+Reused 'USB LH_01 - Left Upper (tall)' for display #6 USB LH_01 - Left Upper (tall) (1920x1080 at 0,497).
+Created source 'omg display Upper-Left-Upper' bound to display #1 Upper (Left Upper) (1920x1080 at 3150,845).
+Created source 'omg display DC_Center---slice' bound to display #3 DC_Center - slice (1920x1080 at 5061,828).
+Created source 'omg display DC_Left' bound to display #2 DC_Left (1920x1080 at 2505,1919).
+Reused 'Display Capture 4' for display #0 DC_Main (1920x1080 at 4428,1911).
+Created source 'omg display Display-Capture---USAB01' bound to display #4 Display Capture - USAB01 (1920x1080 at 7001,1240).
+Created source 'omg display USB-LH_02' bound to display #7 USB LH_02 (1920x1080 at 1923,0).
+[Screenmap] Hid item 'USB LH_03 (left upper square)' (id 1): its display is gone. Not deleted.
+[Screenmap] Hid item 'Upper (Left Upper)' (id 3): its display is gone. Not deleted.
+[Screenmap] Hid item 'DC_Left' (id 5): its display is gone. Not deleted.
+[Screenmap] Hid item 'DC_Main' (id 6): its display is gone. Not deleted.
+[Screenmap] Hid item 'USB LH_02' (id 8): its display is gone. Not deleted.
+[Screenmap] Added item id 13 for display #5 USB LH_03 (left upper square) (1920x1080 at 739,1949) at (179.1, 631.2), scale 0.2098.
+[Screenmap] Kept hand-placed item(s) for display #6 USB LH_01 - Left Upper (tall) (1920x1080 at 0,497).
+[Screenmap] Added item id 14 for display #1 Upper (Left Upper) (1920x1080 at 3150,845) at (685.0, 399.5), scale 0.2098.
+[Screenmap] Added item id 15 for display #3 DC_Center - slice (1920x1080 at 5061,828) at (1086.0, 395.9), scale 0.2098.
+[Screenmap] Added item id 16 for display #2 DC_Left (1920x1080 at 2505,1919) at (549.7, 624.9), scale 0.2098.
+[Screenmap] Added item id 17 for display #0 DC_Main (1920x1080 at 4428,1911) at (953.2, 623.2), scale 0.2098.
+[Screenmap] Added item id 18 for display #4 Display Capture - USAB01 (1920x1080 at 7001,1240) at (1493.1, 482.4), scale 0.2098.
+[Screenmap] Added item id 19 for display #7 USB LH_02 (1920x1080 at 1923,0) at (427.5, 222.2), scale 0.2098.
+[Mini Screenmap] Hid item 'USB LH_03 (left upper square)' (id 1): its display is gone. Not deleted.
+[Mini Screenmap] Hid item 'Upper (Left Upper)' (id 3): its display is gone. Not deleted.
+[Mini Screenmap] Hid item 'DC_Left' (id 5): its display is gone. Not deleted.
+[Mini Screenmap] Hid item 'DC_Main' (id 6): its display is gone. Not deleted.
+[Mini Screenmap] Hid item 'USB LH_02' (id 8): its display is gone. Not deleted.
+[Mini Screenmap] Added item id 15 for display #5 USB LH_03 (left upper square) (1920x1080 at 739,1949) at (179.1, 631.2), scale 0.2098.
+[Mini Screenmap] Kept hand-placed item(s) for display #6 USB LH_01 - Left Upper (tall) (1920x1080 at 0,497).
+[Mini Screenmap] Added item id 16 for display #1 Upper (Left Upper) (1920x1080 at 3150,845) at (685.0, 399.5), scale 0.2098.
+[Mini Screenmap] Added item id 17 for display #3 DC_Center - slice (1920x1080 at 5061,828) at (1086.0, 395.9), scale 0.2098.
+[Mini Screenmap] Added item id 18 for display #2 DC_Left (1920x1080 at 2505,1919) at (549.7, 624.9), scale 0.2098.
+[Mini Screenmap] Added item id 19 for display #0 DC_Main (1920x1080 at 4428,1911) at (953.2, 623.2), scale 0.2098.
+[Mini Screenmap] Added item id 20 for display #4 Display Capture - USAB01 (1920x1080 at 7001,1240) at (1493.1, 482.4), scale 0.2098.
+[Mini Screenmap] Added item id 21 for display #7 USB LH_02 (1920x1080 at 1923,0) at (427.5, 222.2), scale 0.2098.
+Wrote composed-misc.json
